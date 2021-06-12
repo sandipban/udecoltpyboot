@@ -3,7 +3,7 @@
 """
 Created on Tue Jul 30 09:49:30 2019
 
-@author: sandip
+@author: sandip bandyopadhyay
 """
 # =============================================================================
 # def single_letter_count(word, leter):
